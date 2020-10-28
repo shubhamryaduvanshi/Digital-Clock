@@ -1,3 +1,2 @@
-[Click ]{https://digclocks.netlify.app}
-
+{https://digclocks.netlify.app/}
 
